@@ -151,26 +151,6 @@ Use Bootstrap’s custom button styles for actions in forms, dialogs, and more. 
 
 #### Demo
 
-<div class="row">
-<b-btn size="md" variant="primary">Primary</b-btn>
-  <b-btn size="md" variant="secondary">Secondary</b-btn>
-  <b-btn size="md" variant="success">Success</b-btn>
-  <b-btn size="md" variant="warning">Warning</b-btn>
-  <b-btn size="md" variant="danger">Danger</b-btn>
-
-  <!-- outlined variants -->
-  <b-btn size="md" variant="primary outline">Primary</b-btn>
-  <b-btn size="md" variant="secondary-outline">Secondary</b-btn>
-  <b-btn size="md" variant="success-outline">Success</b-btn>
-  <b-btn size="md" variant="warning-outline">Warning</b-btn>
-  <b-btn size="md" variant="danger-outline">Danger</b-btn>
-
-  <!-- button types -->
-  <b-btn size="md" variant="link" link="#">Button Link</b-btn>
-  <b-btn size="md" variant="primary" disabled>Disabled</b-btn>
-  <b-btn size="md" variant="primary" block>Block</b-btn>
-</div>
-
 #### Usage
 ```html
 <!-- colour variants -->
