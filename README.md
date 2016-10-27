@@ -149,7 +149,7 @@ Allows to select only one item out of a group of buttons.
 ### Buttons
 Use Bootstrap’s custom button styles for actions in forms, dialogs, and more. Includes support for a handful of contextual variations, sizes, states, and more.
 
-#### Demo
+#### Buttons Demo
 
 #### Usage
 ```html
