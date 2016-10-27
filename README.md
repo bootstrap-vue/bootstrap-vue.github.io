@@ -1,10 +1,3 @@
-<p align="center"><img src="https://github.com/pi0/bootstrap-vue/raw/master/banner.png"></p>
-
-# Bootstrap Vue
-[Twitter Bootstrap 4](https://v4-alpha.getbootstrap.com/) Components For [Vue.js 2](https://vuejs.org/)
-
-## Quick Start
-
 Install via **NPM**:   
 
 `npm i --save-dev bootstrap-vue`
@@ -652,9 +645,4 @@ Add small overlay content to any element for housing secondary information. Tool
 </b-tooltip>
 ```
 
-
-## /Bootstrap Vue
-+ This Project and Docs was originally ported from vue 1.x version
- [kzima/vuestrap-base-components](https://github.com/kzima/vuestrap-base-components)
- , So original credit backs to him :)
 
