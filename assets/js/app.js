@@ -1,7 +1,7 @@
 new Vue({
  el: '#buttons-demo', 
  template: '<b-btn size="md" variant="primary">Primary</b-btn>'
-};
+});
 
 window.app = new Vue({
   el: '#app',
