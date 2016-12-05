@@ -575,7 +575,7 @@ For tabular data.
 
 #### Usage
 ```html
-<b-table hover responsive>
+<b-tables hover responsive>
   <table>
     <thead>
       <tr>
@@ -605,7 +605,7 @@ For tabular data.
       </tr>
     </tbody>
   </table>
-</b-table>
+</b-tables>
 ```
 
 ### Tabs
