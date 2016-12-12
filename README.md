@@ -418,15 +418,15 @@ List groups are a flexible and powerful component for displaying not only simple
 ```html
 <b-list-group flush>
   <b-list-group-item state="success">
-    <b-badge type="pill" class="pull-xs-right">14</b-badge>
+    <b-tags type="pill" class="pull-xs-right">14</b-tags>
     Cras justo odio
   </b-list-group-item>
   <b-list-group-item>
-    <b-badge type="pill" class="pull-xs-right">2</b-badge>
+    <b-tags type="pill" class="pull-xs-right">2</b-tags>
     Dapibus ac facilisis in
   </b-list-group-item>
   <b-list-group-item>
-    <b-badge type="pill" class="pull-xs-right">1</b-badge>
+    <b-tags type="pill" class="pull-xs-right">1</b-tags>
     Morbi leo risus
   </b-list-group-item>
 </b-list-group>
@@ -624,7 +624,7 @@ Small and adaptive tag for adding context to just about any content.
 
 #### Usage
 ```html
-<b-badge variant="default" type="pill">open</b-badge>
+<b-tags variant="default" type="pill">open</b-tags>
 ```
 
 ### Tooltip
