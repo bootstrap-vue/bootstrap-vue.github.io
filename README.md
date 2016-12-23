@@ -496,7 +496,7 @@ The navbar is a simple wrapper for positioning branding, navigation, and other e
 ```html
 <b-navbar fixed="top" type="light" variant="default" full>
   <a class="navbar-brand" href="#">Navbar</a>
-  <b-nav type="navbar" class="pull-xs-left">
+  <b-nav type="navbar" class="float-xs-left">
     <b-nav-item link="#" active>Home <span class="sr-only">(current)</span></b-nav-item>
     <b-nav-item link="#">Features</b-nav-item>
     <b-nav-item link="#">Pricing</b-nav-item>
