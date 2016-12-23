@@ -418,15 +418,15 @@ List groups are a flexible and powerful component for displaying not only simple
 ```html
 <b-list-group flush>
   <b-list-group-item state="success">
-    <b-tags type="pill" class="pull-xs-right">14</b-tags>
+    <b-tags type="pill" class="float-xs-right">14</b-tags>
     Cras justo odio
   </b-list-group-item>
   <b-list-group-item>
-    <b-tags type="pill" class="pull-xs-right">2</b-tags>
+    <b-tags type="pill" class="float-xs-right">2</b-tags>
     Dapibus ac facilisis in
   </b-list-group-item>
   <b-list-group-item>
-    <b-tags type="pill" class="pull-xs-right">1</b-tags>
+    <b-tags type="pill" class="float-xs-right">1</b-tags>
     Morbi leo risus
   </b-list-group-item>
 </b-list-group>
@@ -502,7 +502,7 @@ The navbar is a simple wrapper for positioning branding, navigation, and other e
     <b-nav-item link="#">Pricing</b-nav-item>
     <b-nav-item link="#">About</b-nav-item>
   </b-nav>
-  <form class="form-inline navbar-form pull-xs-right">
+  <form class="form-inline navbar-form float-xs-right">
     <input class="form-control" type="text" placeholder="Search">
     <button class="btn btn-success-outline" type="submit">Search</button>
   </form>
