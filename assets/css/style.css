@@ -1,0 +1,31 @@
+body {
+  padding-top: 5rem;
+}
+
+.starter-template {
+  padding: 3rem 1.5rem;
+  text-align: center;
+}
+
+.tether-element, .tether-element *, .tether-element :after, .tether-element :before, .tether-element:after, .tether-element:before {
+  box-sizing: border-box
+}
+
+.tether-element {
+  position: absolute;
+  display: none
+}
+
+.tether-element.tether-open {
+  display: block
+}
+
+.header-logo{
+	max-width:100%
+}
+
+.header{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
