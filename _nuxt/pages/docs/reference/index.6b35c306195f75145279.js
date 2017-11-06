@@ -1,2 +1,0 @@
-webpackJsonp([9],{IlHZ:function(e,t,n){"use strict";t.a={fetch:function(e){(0,e.redirect)("/docs/reference/color-variants")}}},icma:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var r=n("IlHZ"),c=n("vQxR"),a=n("VU/8"),i=a(r.a,c.a,!1,null,null,null);t.default=i.exports},vQxR:function(e,t,n){"use strict";var r=function(){var e=this,t=e.$createElement;return(e._self._c||t)("div")},c=[],a={render:r,staticRenderFns:c};t.a=a}});
-//# sourceMappingURL=index.6b35c306195f75145279.js.map

@@ -1,0 +1,2 @@
+webpackJsonp([9],{"3Wpy":function(e,t,n){"use strict";t.a={fetch:function(e){(0,e.redirect)("/docs/reference/color-variants")}}},EZ4Y:function(e,t,n){"use strict";var r=function(){var e=this,t=e.$createElement;return(e._self._c||t)("div")},c=[],a={render:r,staticRenderFns:c};t.a=a},icma:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var r=n("3Wpy"),c=n("EZ4Y"),a=n("VU/8"),i=a(r.a,c.a,!1,null,null,null);t.default=i.exports}});
+//# sourceMappingURL=index.c5e50aee88f57891da48.js.map
