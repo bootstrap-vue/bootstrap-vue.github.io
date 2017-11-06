@@ -1,2 +1,0 @@
-webpackJsonp([7],{Uors:function(e,t,n){"use strict";t.a={fetch:function(e){(0,e.redirect)("/docs")}}},hsDf:function(e,t,n){"use strict";var r=function(){var e=this,t=e.$createElement;return(e._self._c||t)("div")},s=[],c={render:r,staticRenderFns:s};t.a=c},sCoe:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var r=n("Uors"),s=n("hsDf"),c=n("VU/8"),u=c(r.a,s.a,null,null,null);t.default=u.exports}});
-//# sourceMappingURL=setup.08ff3815641fba269bcd.js.map
