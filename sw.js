@@ -239,16 +239,16 @@ const fileManifest = [
     "revision": "02b988be71cd765d654e50d5687a7d18"
   },
   {
-    "url": "/_nuxt/manifest.13da7c1c42bd1d0deaf6.js",
-    "revision": "4c8ae61c3a1a5c656fb3ed2bc4a601f2"
+    "url": "/_nuxt/manifest.4ad25dca0887fc38c63e.js",
+    "revision": "8c53d3aad82976313316049eb67a3604"
   },
   {
     "url": "/_nuxt/mSearch.6ff92b00a933f5e8f8f3.js",
     "revision": "82ea68d928f3789cf8434f498e4648aa"
   },
   {
-    "url": "/_nuxt/pages/docs/components/_slug.3cc1ecfd84c09a580c16.js",
-    "revision": "ce7d32680df8ea808a5fc2815e1788b3"
+    "url": "/_nuxt/pages/docs/components/_slug.ed7bf391667e1e74010c.js",
+    "revision": "36603617369d0b04338931458e652d74"
   },
   {
     "url": "/_nuxt/pages/docs/components/index.ec48a98be62131746757.js",
