@@ -219,8 +219,8 @@ const fileManifest = [
     "revision": "22ed55c5b71328be765c0ca2a536599c"
   },
   {
-    "url": "/_nuxt/app.2bf3d2def579a5dd1c0d.js",
-    "revision": "e015f87d6d84a274f6385a8be2d61fd7"
+    "url": "/_nuxt/app.dccab882cea0da2752f9.js",
+    "revision": "256eb4da02638036edb182619b87e629"
   },
   {
     "url": "/_nuxt/common.60ae6a807aecb20b5ac2.js",
@@ -239,8 +239,8 @@ const fileManifest = [
     "revision": "02b988be71cd765d654e50d5687a7d18"
   },
   {
-    "url": "/_nuxt/manifest.6ed5970e2bb580bb9226.js",
-    "revision": "3eb2061c0e0078177ec2b406fe5cf10e"
+    "url": "/_nuxt/manifest.a0dd8db0342d1879ad03.js",
+    "revision": "7a4101ac23e4f38ddb152805d64ca805"
   },
   {
     "url": "/_nuxt/mSearch.6ff92b00a933f5e8f8f3.js",
