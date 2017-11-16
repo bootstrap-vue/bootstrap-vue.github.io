@@ -239,8 +239,8 @@ const fileManifest = [
     "revision": "e51b3d3bcb502d447383c7819f7dfddb"
   },
   {
-    "url": "/_nuxt/manifest.80b7a044955d103aae74.js",
-    "revision": "d2b297e74ddd0e7c3acd7afa1682b486"
+    "url": "/_nuxt/manifest.7d1a6eaa8d09ad5793ff.js",
+    "revision": "913eab16ffc5b6cb791a3b01d28ab714"
   },
   {
     "url": "/_nuxt/mSearch.6ff92b00a933f5e8f8f3.js",
