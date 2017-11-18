@@ -1,0 +1,2 @@
+webpackJsonp([11],{"nK2/":function(e,n,t){"use strict";n.a={fetch:function(e){(0,e.redirect)("/docs/components/layout")}}},pmYn:function(e,n,t){"use strict";Object.defineProperty(n,"__esModule",{value:!0});var c=t("nK2/"),r=t("sNgQ"),s=t("VU/8"),u=s(c.a,r.a,!1,null,null,null);n.default=u.exports},sNgQ:function(e,n,t){"use strict";var c=function(){var e=this,n=e.$createElement;return(e._self._c||n)("div")},r=[],s={render:c,staticRenderFns:r};n.a=s}});
+//# sourceMappingURL=layout.7997108bbf1dfd8ca52d.js.map
