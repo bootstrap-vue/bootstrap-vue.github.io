@@ -1,0 +1,2 @@
+webpackJsonp([11],{"/OFK":function(e,t,n){"use strict";t.a={fetch:function(e){(0,e.redirect)("/docs/components/layout")}}},"Nph+":function(e,t,n){"use strict";var c={render:function(){var e=this.$createElement;return(this._self._c||e)("div")},staticRenderFns:[]};t.a=c},pmYn:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var c=n("/OFK"),r=n("Nph+"),s=n("VU/8")(c.a,r.a,!1,null,null,null);t.default=s.exports}});
+//# sourceMappingURL=layout.49fe801ecc56836b06ac.js.map

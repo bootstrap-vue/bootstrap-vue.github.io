@@ -1,2 +1,0 @@
-webpackJsonp([13],{ML9o:function(e,t,n){"use strict";var r=function(){var e=this,t=e.$createElement;return(e._self._c||t)("div")},u=[],c={render:r,staticRenderFns:u};t.a=c},RuXG:function(e,t,n){"use strict";t.a={fetch:function(e){(0,e.redirect)("/docs/components/alert")}}},W8un:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var r=n("RuXG"),u=n("ML9o"),c=n("VU/8"),s=c(r.a,u.a,!1,null,null,null);t.default=s.exports}});
-//# sourceMappingURL=index.c63ad766d2e19f34655f.js.map
