@@ -1,2 +1,0 @@
-webpackJsonp([12],{eiKT:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var r=n("pyKE"),c=n("vfEP"),i=n("VU/8")(r.a,c.a,!1,null,null,null);t.default=i.exports},pyKE:function(e,t,n){"use strict";t.a={fetch:function(e){(0,e.redirect)("/docs/directives/popover")}}},vfEP:function(e,t,n){"use strict";var r={render:function(){var e=this.$createElement;return(this._self._c||e)("div")},staticRenderFns:[]};t.a=r}});
-//# sourceMappingURL=index.cc8fb73fbbc7b3c051be.js.map

@@ -1,2 +1,0 @@
-webpackJsonp([9],{"6xP2":function(e,t,n){"use strict";t.a={fetch:function(e){(0,e.redirect)("/docs/reference/color-variants")}}},HISh:function(e,t,n){"use strict";var r={render:function(){var e=this.$createElement;return(this._self._c||e)("div")},staticRenderFns:[]};t.a=r},icma:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var r=n("6xP2"),c=n("HISh"),i=n("VU/8")(r.a,c.a,!1,null,null,null);t.default=i.exports}});
-//# sourceMappingURL=index.cbba731588e57f34f35f.js.map
