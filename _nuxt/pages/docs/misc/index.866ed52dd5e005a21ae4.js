@@ -1,0 +1,2 @@
+webpackJsonp([10],{J905:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var c=n("XvTx"),r=n("v5X5"),s=n("VU/8")(c.a,r.a,!1,null,null,null);t.default=s.exports},XvTx:function(e,t,n){"use strict";t.a={fetch:function(e){(0,e.redirect)("/docs/misc/changelog")}}},v5X5:function(e,t,n){"use strict";var c={render:function(){var e=this.$createElement;return(this._self._c||e)("div")},staticRenderFns:[]};t.a=c}});
+//# sourceMappingURL=index.866ed52dd5e005a21ae4.js.map

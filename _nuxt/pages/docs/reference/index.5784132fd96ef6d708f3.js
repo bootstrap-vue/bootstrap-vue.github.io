@@ -1,0 +1,2 @@
+webpackJsonp([9],{Cvmb:function(e,t,n){"use strict";var r={render:function(){var e=this.$createElement;return(this._self._c||e)("div")},staticRenderFns:[]};t.a=r},E3fm:function(e,t,n){"use strict";t.a={fetch:function(e){(0,e.redirect)("/docs/reference/color-variants")}}},icma:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var r=n("E3fm"),c=n("Cvmb"),i=n("VU/8")(r.a,c.a,!1,null,null,null);t.default=i.exports}});
+//# sourceMappingURL=index.5784132fd96ef6d708f3.js.map
