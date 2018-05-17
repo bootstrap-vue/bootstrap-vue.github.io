@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[12],{510:function(e,n,t){"use strict";t.r(n);var c={fetch:function(e){(0,e.redirect)("/docs/misc/changelog")}},i=t(7),s=Object(i.a)(c,function(){var e=this.$createElement;return(this._self._c||e)("div")},[],!1,null,null,null);n.default=s.exports}}]);
