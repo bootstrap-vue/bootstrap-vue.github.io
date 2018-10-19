@@ -118,19 +118,19 @@
 on <code>&lt;img></code> tags, but doesn't automatically for Bootrap-Vue custom
 components that accept image src url tags.</p>
 </blockquote>
-<h2 id="vue-loader-transformtorequire-to-resolve-img-paths">Vue-loader <code>transformToRequire</code> to resolve img paths</h2>
+<h2 id="vue-loader-transformtorequire-to-resolve-img-paths">Vue-loader <code>transformAssetUrls</code> to resolve img paths</h2>
 <p>To have your project convert these custom component image URLs for you, you will need to
-customize the <a href="https://vue-loader.vuejs.org/en/options.html#transformtorequire"><code>transformToRequire</code></a>
+customize the <a href="https://vue-loader.vuejs.org/en/options.html#transformtorequire"><code>transformAssetUrls</code></a>
 <code>option</code> for <code>vue-loader</code> in your webpack config.</p>
-<p>The default value for <code>transformToRequire</code> is:</p>
-<pre class="hljs">transformToRequire: {
+<p>The default value for <code>transformAssetUrls</code> is:</p>
+<pre class="hljs">transformAssetUrls: {
   <span class="hljs-string">'img'</span>: <span class="hljs-string">'src'</span>,
   <span class="hljs-string">'image'</span>: <span class="hljs-string">'xlink:href'</span>
 }
 </pre>
 <p>To allow Bootstrap-Vue components to use project relative URLs,
 use the following configuration:</p>
-<pre class="hljs">transformToRequire: {
+<pre class="hljs">transformAssetUrls: {
   <span class="hljs-string">'img'</span>: <span class="hljs-string">'src'</span>,
   <span class="hljs-string">'image'</span>: <span class="hljs-string">'xlink:href'</span>,
   <span class="hljs-string">'b-img'</span>: <span class="hljs-string">'src'</span>,
@@ -146,12 +146,12 @@ use the following configuration:</p>
 
 <span class="hljs-tag">&lt;<span class="hljs-name">b-card-img</span> <span class="hljs-attr">img-src</span>=<span class="hljs-string">"~/static/picture.jpg"</span> /></span>
 </pre>
-<h3 id="configuring-transformtorequire-in-nuxt">Configuring <code>transformToRequire</code> in Nuxt</h3>
+<h3 id="configuring-transformtorequire-in-nuxt">Configuring <code>transformAssetUrls</code> in Nuxt</h3>
 <p>In your <code>nuxt.config.js</code> file, add the following to your build section:</p>
 <pre class="hljs">build: {   
   extend (config, ctx) {
     <span class="hljs-keyword">const</span> vueLoader = config.module.rules.find(<span class="hljs-function">(<span class="hljs-params">rule</span>) =></span> rule.loader === <span class="hljs-string">'vue-loader'</span>)
-    vueLoader.options.transformToRequire = {
+    vueLoader.options.transformAssetUrls = {
       <span class="hljs-string">'img'</span>: <span class="hljs-string">'src'</span>,
       <span class="hljs-string">'image'</span>: <span class="hljs-string">'xlink:href'</span>,
       <span class="hljs-string">'b-img'</span>: <span class="hljs-string">'src'</span>,
