@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[9],{519:function(e,n,t){"use strict";t.r(n);var c={fetch:function(e){(0,e.redirect)("/docs/reference/color-variants")}},r=t(7),i=Object(r.a)(c,function(){var e=this.$createElement;return(this._self._c||e)("div")},[],!1,null,null,null);n.default=i.exports}}]);
