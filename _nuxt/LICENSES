@@ -12,8 +12,8 @@
   */
 
 /**
- * vue-meta v1.5.8
- * (c) 2018 Declan de Wet & Sébastien Chopin (@Atinux)
+ * vue-meta v1.6.0
+ * (c) 2019 Declan de Wet & Sébastien Chopin (@Atinux)
  * @license MIT
  */
 
@@ -31,7 +31,7 @@
 
 /**!
  * @fileOverview Kickass library to create and place poppers near their reference elements.
- * @version 1.14.7
+ * @version 1.15.0
  * @license
  * Copyright (c) 2016 Federico Zivolo and contributors
  *

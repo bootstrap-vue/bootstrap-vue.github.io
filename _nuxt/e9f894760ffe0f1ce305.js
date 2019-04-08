@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[64],{322:function(c,e,n){"use strict";n.r(e),e.default={fetch(c){(0,c.redirect)("/docs/misc/changelog")}}}}]);
+//# sourceMappingURL=e9f894760ffe0f1ce305.js.map
