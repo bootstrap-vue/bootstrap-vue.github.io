@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[66],{572:function(e,c,n){"use strict";n.r(c),c.default={fetch(e){(0,e.redirect)("/docs/reference/color-variants")}}}}]);
-//# sourceMappingURL=dc8a242803396fb19514.js.map

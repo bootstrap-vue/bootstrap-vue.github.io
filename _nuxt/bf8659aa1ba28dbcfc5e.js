@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[60],{571:function(e,c,o){"use strict";o.r(c),c.default={fetch(e){(0,e.redirect)("/docs/directives/popover")}}}}]);
+//# sourceMappingURL=bf8659aa1ba28dbcfc5e.js.map
