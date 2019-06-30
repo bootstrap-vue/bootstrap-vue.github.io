@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[58],{619:function(n,c,e){"use strict";e.r(c),c.default={fetch:function(n){(0,n.redirect)("/docs/components/alert")}}}}]);
-//# sourceMappingURL=a3ea20c8169de78712bb.js.map
