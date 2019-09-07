@@ -6,26 +6,31 @@
  */
 
 /*!
-  * vue-router v3.1.2
+  * vue-router v3.1.3
   * (c) 2019 Evan You
   * @license MIT
   */
 
-/**
- * vue-meta v1.6.0
- * (c) 2019 Declan de Wet & Sébastien Chopin (@Atinux)
- * @license MIT
- */
-
-/*
-	object-assign
-	(c) Sindre Sorhus
-	@license MIT
-	*/
-
 /*!
  * Vue.js v2.6.10
  * (c) 2014-2019 Evan You
+ * Released under the MIT License.
+ */
+
+/*! 
+  * portal-vue © Thorsten Lünborg, 2019 
+  * 
+  * Version: 2.1.6
+  * 
+  * LICENCE: MIT 
+  * 
+  * https://github.com/linusborg/portal-vue
+  * 
+ */
+
+/*!
+ * vue-no-ssr v1.1.1
+ * (c) 2018-present egoist <0x142857@gmail.com>
  * Released under the MIT License.
  */
 
@@ -54,19 +59,8 @@
  * SOFTWARE.
  */
 
-/*! 
-  * portal-vue © Thorsten Lünborg, 2019 
-  * 
-  * Version: 2.1.6
-  * 
-  * LICENCE: MIT 
-  * 
-  * https://github.com/linusborg/portal-vue
-  * 
- */
-
 /*!
- * vue-no-ssr v1.1.1
- * (c) 2018-present egoist <0x142857@gmail.com>
+ * vue-client-only v2.0.0
+ * (c) 2019-present egoist <0x142857@gmail.com>
  * Released under the MIT License.
  */

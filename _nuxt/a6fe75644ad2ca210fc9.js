@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[66],{337:function(c,e,n){"use strict";n.r(e),e.default={fetch(c){var{redirect:e}=c;e("/docs/misc/changelog")}}}}]);

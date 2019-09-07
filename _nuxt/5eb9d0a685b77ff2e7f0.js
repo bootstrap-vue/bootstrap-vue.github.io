@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[60],{332:function(e,c,n){"use strict";n.r(c),c.default={fetch(e){var{redirect:c}=e;c("/docs/components/alert")}}}}]);
