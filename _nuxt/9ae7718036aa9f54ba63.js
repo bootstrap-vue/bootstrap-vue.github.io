@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[69],{342:function(e,c,n){"use strict";n.r(c),c.default={fetch(e){var{redirect:c}=e;c("/docs/reference/accessibility")}}}}]);

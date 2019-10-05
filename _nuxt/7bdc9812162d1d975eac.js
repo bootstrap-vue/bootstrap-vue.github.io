@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[63],{339:function(e,c,o){"use strict";o.r(c),c.default={fetch(e){var{redirect:c}=e;c("/docs/directives/popover")}}}}]);
